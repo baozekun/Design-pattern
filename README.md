@@ -1,5 +1,5 @@
 # Design-pattern
-Implementation of 22 design patterns using java and go
+Implementation of design patterns using java and go
 # 分类
 
 **根据目的**
