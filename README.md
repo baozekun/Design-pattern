@@ -16,7 +16,7 @@ Implementation of 22 design patterns using java and go
 
 对象模式：处理对象之间关系的，动态的、时刻变化的
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ab4d77a-3820-4c22-a6ea-0be3c80f033d/a616014a-b64e-4034-89d1-5c8354b43aa3/Untitled.png)
+![Untitled](static/img/design_pattern_type.png)
 
 # 关键点
 
